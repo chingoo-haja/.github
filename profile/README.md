@@ -1,7 +1,10 @@
 # 🎯 친구하자 (Chingoo Haja)
 > 관심사 기반 실시간 음성 매칭 플랫폼
 
-관심사가 비슷한 사람들을 자동으로 매칭해주는 실시간 음성 통화 서비스입니다. Spring Boot 백엔드와 React 프론트엔드로 구성된 모던 웹 애플리케이션입니다.
+<img src= "https://github.com/user-attachments/assets/989058a7-2d0e-4bad-b010-624d376dabc3">
+
+관심사가 비슷한 사람들을 자동으로 매칭해주는 실시간 음성 통화 서비스입니다. </br>
+Spring Boot 백엔드와 React 프론트엔드로 구성된 모던 웹 애플리케이션입니다.
 
 ## 🌟 주요 기능
 
