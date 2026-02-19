@@ -132,6 +132,6 @@ graph TB
 ---
 
 > 💡 본 프로젝트는 포트폴리오 목적과 실제 서비스 런칭을 목표로 개발되고 있습니다.
-> [🩷 개발 일지](https://nan0silver.github.io/projectdiary/)
+>> [🩷 개발 일지](https://nan0silver.github.io/projectdiary/)
 
 © 2026 친구하자. All rights reserved.
